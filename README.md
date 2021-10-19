@@ -1,5 +1,4 @@
 # ML_LinReg_GradDesc_Chess
-Osman Gunonu
 Machine Learning using Linear Regression with Gradient Descent on Chess (King-Rook vs. King) Data Set
 There is two parts which are separated to two different python files. The first one implements linear regression with gradient descent on the chess dataset where the 
 algorithms are developed from scratch. The second part uses the scikit-learn library to implement linear regression with gradient descent.
