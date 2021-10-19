@@ -32,3 +32,5 @@ The dependencies for the second part include:
 6. sklearn.metrics import rmse
 7. sklearn.linear_model import LinearRegression
 8. sklearn.linear_model import SGDRegressor
+![ml1](https://user-images.githubusercontent.com/23423446/138005803-d9d70cd0-71ac-414a-8ddf-834e15d4e5c0.PNG)
+![ml2](https://user-images.githubusercontent.com/23423446/138005806-1403db39-4a56-480a-89a2-a336b7a2a484.PNG)
